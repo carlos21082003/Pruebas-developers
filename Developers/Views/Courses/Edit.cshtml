@@ -1,0 +1,60 @@
+﻿@model Developers.Models.Course
+@{
+    ViewData["Title"] = "Editar curso";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Editar Curso</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Courses" asp-action="Edit" method="post">
+                    <input type="hidden" asp-for="CourseId" />
+                    <div class="form-group mb-2">
+                        <label class="form-label">Nombre</label>
+                        <input class="form-control" asp-for="Name" placeholder="Ingrese nombre de curso" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Descripción</label>
+                        <textarea class="form-control" asp-for="Description" rows="4" placeholder="Ingrese la descripción del curso"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Duración</label>
+                        <input class="form-control" asp-for="Hours" placeholder="Ingrese la duración del curso" />
+                        <span asp-validation-for="Hours" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Estado</label>
+                        <select asp-for="Status" class="form-select">
+                            <option value="true">ACTIVO</option>
+                            <option value="false">INACTIVO</option>
+                        </select>
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Tema</label>
+                        <textarea class="form-control" asp-for="Theme" placeholder="Ingrese el tema del curso"></textarea>
+                        <span asp-validation-for="Theme" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Precio</label>
+                        <input class="form-control" asp-for="Price" placeholder="Ingrese el precio del curso" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-download"></i>&nbsp; Actualizar
+                        </button>
+                        <a asp-controller="Courses" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

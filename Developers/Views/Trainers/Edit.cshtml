@@ -1,0 +1,63 @@
+﻿@model Developers.Models.Trainer
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Editar Instructor</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Trainers" asp-action="Edit" method="post">
+                    <input type="hidden" asp-for="TrainerId"/>
+                    <input type="hidden" asp-for="CreatedAt" />
+                    <div class="form-group mb-2">
+                        <label class="form-label">DNI</label>
+                        <input class="form-control" asp-for="Dni" placeholder="Ingrese DNI" />
+                        <span asp-validation-for="Dni" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Apellidos</label>
+                        <input class="form-control" asp-for="LastName" placeholder="Ingrese Apellidos" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Nombres</label>
+                        <input class="form-control" asp-for="FirstName" placeholder="Ingrese Nombres" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Teléfono(s)</label>
+                        <input class="form-control" asp-for="PhoneNumber" placeholder="Ingrese Teléfono" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Email</label>
+                        <input class="form-control" asp-for="Email" placeholder="Ingrese Email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Estado</label>
+                        <select asp-for="Status" class="form-select">
+                            <option value="true">ACTIVO</option>
+                            <option value="false">INACTIVO</option>
+                        </select>
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-download"></i>&nbsp; Actualizar
+                        </button>
+                        <a asp-controller="Trainers" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

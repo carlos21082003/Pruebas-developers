@@ -1,0 +1,171 @@
+﻿@model Developers.Models.ViewModels.ClassroomVM
+@{
+    ViewData["Title"] = "Detalle Sesión";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h2>Detalle Sesión</h2>
+            </div>
+            <div class="card-body">
+                <div class="row py-2 border-bottom">
+                    <div class="col-2 fw-bold text-end">Sesión ID:</div>
+                    <div class="col">@Model.Classroom.ClassroomId</div>
+                    <div class="col-2 fw-bold text-end">Estado:</div>
+                    <div class="col">
+                        @if (Model.Classroom.Status)
+                        {
+                            <span class="text-success fw-bold">ACTIVO</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger fw-bold">INACTIVO</span>
+                        }
+                    </div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Curso:</div>
+                    <div class="col">@Model.Classroom.Course.Name</div>
+                </div>
+                <div class="row py-2 border-bottom">
+                    <div class="col-2 fw-bold text-end">Instructor:</div>
+                    <div class="col">@Model.Classroom.Trainer.LastName @Model.Classroom.Trainer.FirstName </div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Observaciones:</div>
+                    <div class="col">@Html.Raw(Model.Classroom.Details) </div>
+                </div>
+                <div class="row py-2 border-bottom">
+                    <div class="col-2 fw-bold text-end">Fecha:</div>
+                    <div class="col">@Model.Classroom.SessionDate</div>
+                    <div class="col-2 fw-bold text-end">Duración:</div>
+                    <div class="col">@Model.Classroom.Hours </div>
+                </div>
+                <div class="row my-2 pb-2 border-bottom">
+                    <div class="col-2 fw-bold text-end">Creado el:</div>
+                    <div class="col">@Model.Classroom.CreatedAt</div>
+                    <div class="col-2 fw-bold text-end">Modificado el:</div>
+                    <div class="col">@Model.Classroom.UpdatedAt</div>
+                </div>
+                <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                    <a asp-controller="Classrooms" asp-action="Edit" asp-route-id="@Model.Classroom.ClassroomId" class="btn btn-warning">
+                        <i class="bi bi-pencil-square"></i>&nbsp;Editar
+                    </a>
+                    <a asp-controller="Classrooms" asp-action="Index" class="btn btn-primary">
+                        <i class="bi bi-arrow-return-left"></i>&nbsp;Regresar
+                    </a>
+                </div>
+                @* formulario para agregar participante *@
+                <div class="card my-2">
+                    <div class="card-header">
+                        <h4 class="text-primary">Agregar participante</h4>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <input asp-for="Classroom.ClassroomId" name="classroomId" id="classroomId" hidden />
+                            <div class="row py-1">
+                                <div class="col-10 fw-bold">Estudiante</div>
+                            </div>
+                            <div class="row py-1">
+                                <div class="col-10">
+                                    <select class="form-select" id="studentId" name="studentId"></select>
+                                </div>
+                                <div class="col-1">
+                                    <button type="submit" class="btn btn-primary" onfocus="false" id="btnAgregar">
+                                        Agregar
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-info">Participantes</h4>
+                    <table class="table table-sm table-striped">
+                        <thead>
+                            <tr>
+                                <th>Opciones</th>
+                                <th>DNI</th>
+                                <th>Nombres</th>
+                                <th>PreTest</th>
+                                <th>PostTest</th>
+                                <th>¿Aprobado?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Enrollments)
+                            {
+                                <tr>
+                                    <td>
+                                        <a asp-controller="Classrooms" asp-action="Edit" asp-route-id="@item.EnrollmentId" asp-route-id="@item.ClassroomId" asp-route-id="@item.StudentId" asp-route-id="@item.Classroom" class="btn btn-sm btn-warning">Editar</a>
+                                        <form asp-controller="Classrooms" asp-action="DeleteParticipant" asp-route-id="@item.EnrollmentId" method="post" style="display:inline-block;">
+                                            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('¿Está seguro de eliminar este participante?');">Eliminar</button>
+                                        </form>
+                                    </td>
+                                    <td>@item.Student.Dni</td>
+                                    <td>@item.Student.LastName, @item.Student.FirstName</td>
+                                    <td>@item.PreTest</td>
+                                    <td>@item.PostTest</td>
+                                    <td>
+                                        @if (item.Passed)
+                                        {
+                                            <span class="text-success fw-bold">SI</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-danger fw-bold">NO</span>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        //Select2
+        $("#studentId").select2({
+            placeholder: "Seleccionar Participante",
+            allowClear: true,
+            theme: "bootstrap-5",
+            ajax: {
+                url: "/Classrooms/SearchStudent",
+                contentType: "application/json; charset=utf-8",
+                data: function (params) {
+                    var query = {
+                        term: params.term
+                    };
+                    return query;
+                },
+                processResults: function (result) {
+                    return {
+                        results: $.map(result, function (item) {
+                            return {
+                                id: item.studentId,
+                                text: item.lastName + ' ' + item.firstName
+                            };
+                        })
+                    };
+                }
+            }
+        });
+    </script>
+
+    <script>
+        $("#btnAgregar").click(function () {
+            let student = document.getElementById("studentId").value;
+
+            if (student.toString() == '') {
+                swal("Error", "Seleccione un participante.", "error");
+                return false;
+            }
+        });
+    </script>
+}

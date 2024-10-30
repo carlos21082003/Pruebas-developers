@@ -1,0 +1,149 @@
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.deps.json
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\bin\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.AssemblyInfo.cs
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll

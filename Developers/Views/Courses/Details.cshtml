@@ -1,0 +1,160 @@
+﻿@model Course
+
+<div class="container my-5">
+    <div class="row">
+        <!-- Sección Principal: Detalles del Curso -->
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-primary text-white text-center py-4">
+                    <h2 class="mb-0">@Model.Name</h2>
+                </div>
+                <div class="card-body p-4">
+                    <!-- ... (otros detalles del curso) ... -->
+                    <!-- Descripción del curso -->
+                    <div class="row mb-4">
+                        <div class="col-md-4 text-center">
+                            <i class="bi bi-file-earmark-text display-1 text-secondary"></i>
+                        </div>
+                        <div class="col-md-8">
+                            <h4 class="text-muted">Descripción</h4>
+                            @if (!string.IsNullOrEmpty(Model.Description))
+                            {
+                                var descripciones = Model.Description.Split(new[] { "Creación de clases" }, StringSplitOptions.RemoveEmptyEntries);
+                                <ul class="lead text-dark">
+                                    @foreach (var descripcion in descripciones)
+                                    {
+                                        <li>@descripcion.Trim()</li>
+                                    }
+                                    <li>Creación de clases</li>
+                                </ul>
+                            }
+                            else
+                            {
+                                <p class="lead text-dark">No hay descripción disponible.</p>
+                            }
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <!-- Contenido del Curso -->
+                    <h4 class="text-muted">Temas del curso</h4>
+                    @if (!string.IsNullOrEmpty(Model.Theme))
+                    {
+                        var temas = Model.Theme.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
+                        <ul class="list-group">
+                            @foreach (var tema in temas)
+                            {
+                                <li class="list-group-item">@tema.Trim()</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p class="lead text-dark">No hay temas disponibles.</p>
+                    }
+
+                        <!-- Botones de acción -->
+                        <div class="text-center mt-4">
+                            <a href="@Url.Action("Index", "Home")" class="btn btn-outline-primary btn-lg">
+                                <i class="bi bi-arrow-left"></i> Seguir explorando
+                            </a>
+                            <a href="@Url.Action("Theme", "Courses", new { id = @Model.CourseId })" class="btn btn-outline-success btn-lg ms-3">
+                                <i class="bi bi-journal-text"></i> Ver Temas del Curso
+                            </a>
+                            <a href="@Url.Action("AddCourses", "Courses")" class="btn btn-primary ms-3">
+                                <i class="bi bi-plus-circle"></i> Inscribirse al Curso
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <!-- Barra Lateral: Precio y Opciones -->
+        <div class="col-lg-4">
+            <div class="card border-0 shadow-lg p-3">
+                <h3 class="text-center">S/ @Model.Price</h3>
+                <button class="btn btn-primary btn-lg w-100 my-3">Añadir a la cesta</button>
+                <button class="btn btn-outline-secondary btn-lg w-100">Comprar ahora</button>
+
+                <hr>
+
+                <h5>Este curso incluye:</h5>
+                <ul class="list-unstyled">
+                    <li><i class="bi bi-check-circle-fill"></i> Acceso de por vida</li>
+                    <li><i class="bi bi-check-circle-fill"></i> Certificado de finalización</li>
+                    <li><i class="bi bi-check-circle-fill"></i> 24/7 Soporte técnico</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .course-details {
+        margin-top: 20px;
+    }
+
+        .course-details .card-header {
+            background-color: #007bff;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .course-details .card-body {
+            padding: 20px;
+        }
+
+        .course-details .btn-primary {
+            background-color: #ff5722;
+            border-color: #ff5722;
+        }
+
+        .course-details .btn-outline-primary {
+            color: #007bff;
+            border-color: #007bff;
+        }
+
+        .course-details .btn-outline-success {
+            color: #28a745;
+            border-color: #28a745;
+        }
+
+        .course-details .list-group-item {
+            padding: 10px 15px;
+        }
+
+    .course-sidebar .card {
+        margin-top: 20px;
+    }
+
+    .course-sidebar h3 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    .course-sidebar .btn-lg {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .course-sidebar h5 {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .course-sidebar ul {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+        .course-sidebar ul li {
+            list-style: none;
+            margin-bottom: 10px;
+        }
+
+            .course-sidebar ul li i {
+                color: #28a745;
+                margin-right: 5px;
+            }
+</style>

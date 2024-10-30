@@ -1,0 +1,156 @@
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\Users\Pedro\Documents\7to Ciclo\DISEÑO Y ARQUITECTURA DE SOFTWARE\Semana 13\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\Users\HP\Downloads\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\Users\Gabriel\Desktop\robótica\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll

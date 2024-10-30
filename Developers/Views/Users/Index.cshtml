@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Usuarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h2>Usuarios</h2>
+                    <div>
+                        <a class="btn btn-primary" asp-area="Identity" asp-page="/Account/Register">
+                            <i class="bi bi-plus-square"></i> Nuevo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_users">
+                        <thead>
+                            <tr>
+                                <th>Nombres</th>
+                                <th>Email</th>
+                                <th>Teléfono</th>
+                                <th>Roles</th>
+                                <th>Estado</th> 
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/user.js"></script>
+}

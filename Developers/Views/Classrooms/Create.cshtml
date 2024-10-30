@@ -1,0 +1,68 @@
+﻿@model Developers.Models.ViewModels.ClassroomVM
+@{
+    ViewData["Title"] = "Crear sesión";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Nueva Sesión</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Classrooms" asp-action="Create" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Curso</label>
+                        <select asp-for="Classroom.CourseId" asp-items="Model.CourseList" class="form-select" id="courseId">
+                            <option disabled selected>--Seleccione un curso--</option>
+                        </select>
+                        <span asp-validation-for="Classroom.CourseId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Instructor</label>
+                        <select asp-for="Classroom.TrainerId" asp-items="Model.TrainerList" class="form-select" id="trainerId">
+                            <option disabled selected>--Seleccione un instructor--</option>
+                        </select>
+                        <span asp-validation-for="Classroom.TrainerId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Fecha</label>
+                        <input class="form-control" type="date" asp-for="Classroom.SessionDate" />
+                        <span asp-validation-for="Classroom.SessionDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Duración</label>
+                        <input class="form-control" asp-for="Classroom.Hours" placeholder="Ingrese duración" />
+                        <span asp-validation-for="Classroom.Hours" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Observaciones</label>
+                        @* <input class="form-control" asp-for="Classroom.Details" placeholder="Ingrese observaciones" /> *@
+                        <textarea class="form-control" asp-for="Classroom.Details" placeholder="Ingrese observaciones" id="observaciones"></textarea>
+                        <span asp-validation-for="Classroom.Details" class="text-danger"></span>
+                    </div>
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-floppy"></i>&nbsp; Guardar
+                        </button>
+                        <a asp-controller="Classrooms" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#courseId').select2();
+            $('#trainerId').select2();
+            $('#observaciones').summernote();
+        });
+    </script>
+}

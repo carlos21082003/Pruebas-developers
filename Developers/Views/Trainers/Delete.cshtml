@@ -1,0 +1,59 @@
+﻿@model Developers.Models.Trainer
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="text-danger">¿Desea eliminar este registro?</h4>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Trainers" asp-action="Delete" method="post">
+                    <input type="hidden" asp-for="TrainerId"/>
+                    <div class="row mb-2 border-bottom">
+                        <div class="col-4 text-end fw-bold">DNI:</div>
+                        <div class="col-8">@Model.Dni</div>
+                    </div>
+                    <div class="row mb-2 border-bottom">
+                        <div class="col-4 text-end fw-bold">Apellidos y Nombres:</div>
+                        <div class="col-8">@Model.LastName @Model.FirstName</div>
+                    </div>
+                    <div class="row mb-2 border-bottom">
+                        <div class="col-4 text-end fw-bold">Email:</div>
+                        <div class="col-8">@Model.Email</div>
+                    </div>
+                    <div class="row mb-2 border-bottom">
+                        <div class="col-4 text-end fw-bold">Teléfono:</div>
+                        <div class="col-8">@Model.PhoneNumber</div>
+                    </div>
+                    
+                    <div class="row mb-2 border-bottom">
+                        <div class="col-4 text-end fw-bold">Estado:</div>
+                        <div class="col-8 fw-bold">
+                            @if (Model.Status)
+                            {
+                                <span class="text-success">ACTIVO</span>
+                            }
+                            else
+                            {
+                                <span class="text-danger">INACTIVO</span>
+                            }
+                        </div>
+                    </div>
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-danger">
+                            <i class="bi bi-trash"></i>&nbsp; Eliminar
+                        </button>
+                        <a asp-controller="Trainers" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

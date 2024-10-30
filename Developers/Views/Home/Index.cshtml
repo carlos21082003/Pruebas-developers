@@ -1,0 +1,302 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Carrusel al inicio de la página -->
+<div class="carousel-container">
+    <div class="carousel-slide active">
+        <div class="carousel-content">
+            <h2>Habilidades que te ayudan a avanzar</h2>
+            <p>La tecnología y el mundo laboral evolucionan muy rápido, pero con nosotros, podrás mantener el ritmo. Consigue las habilidades que necesitas para lograr tus objetivos y garantizar la competitividad.</p>
+            <div class="button-group">
+                <button class="btn btn-dark">Plan individual</button>
+                <button class="btn btn-outline-dark">Plan para organizaciones</button>
+            </div>
+        </div>
+        <img src="/img/carousel/lap.jpg" alt="Personas trabajando en computadoras" class="carousel-image">
+    </div>
+    <button class="carousel-button prev">&lt;</button>
+    <button class="carousel-button next">&gt;</button>
+</div>
+
+
+<!-- Contenedor principal -->
+<div class="container mt-5">
+    <!-- Sección principal con texto centrado -->
+    <div class="section text-center">
+        <h1 class="display-4">Una amplia selección de cursos</h1>
+        <p class="lead">Elige entre más de 250 000 cursos de vídeo en línea con nuevo contenido cada mes</p>
+    </div>
+
+    <!-- Contenedor de cursos -->
+    <div class="mt-5">
+        <h2>¡Aprende a programar!</h2>
+        <p>Amplía tus oportunidades profesionales con programación.</p>
+
+        <button class="btn  btn-dark mt-3">Explorar Cursos de Programación</button>
+
+        <!-- Fila de cursos con diseño responsivo -->
+        <div class="row mt-5">
+            <!-- Curso 1 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <a href="@Url.Action("Details", "Courses", new { id = 1 })">
+                        <img src="/img/home/software.jpg" class="card-img-top img-resize" alt="Diseño y Arquitectura de software">
+                    </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Aprende Diseño y Arquitectura <br>de software<br>
+                            <strong>50 s/</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Curso 2 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <a href="@Url.Action("Details", "Courses", new { id = 2 })">
+                        <img src="/img/home/ia.jpg" class="card-img-top img-resize" alt="Sistemas Inteligentes">
+                    </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Aprende Sistemas Inteligentes <br> podrás crear tu propia inteligencia artificial. <br>
+                            <strong>45 s/</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Curso 3 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <a href="@Url.Action("Details", "Courses", new { id = 3 })">
+                        <img src="/img/home/python3.jpg" class="card-img-top img-resize" alt="Programación Orientada a Objetos">
+                    </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Aprende Técnicas de<br> Programación Orientado <br>a Objetos. <br>
+                            <strong>30 s/</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Curso 4 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <a href="@Url.Action("Details", "Courses", new { id = 4 })">
+                        <img src="/img/home/power.jpg" class="card-img-top img-resize" alt="Python">
+                    </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Aprende Power Bi <br>  analizar y visualizar datos <br>para tomar decisiones informadas. <br>
+                            <strong>70 s/</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Segunda sección de cursos -->
+        <div class="mt-5">
+            <p>Puedes explorar y ampliar tus conocimientos con los cursos más vistos por otros usuarios.</p>
+
+            <div class="row mt-5">
+                <!-- Curso 1 
+                <div class="col-md-3">
+                    <div class="card">
+                        <a href="@Url.Action("Details", "Courses", new { id = 1 })">
+                            <img src="/img/home/software.jpg" class="card-img-top img-resize" alt="Diseño y Arquitectura de software">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Aprende Diseño y Arquitectura <br>de software<br>
+                                <strong>50 s/</strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                -->
+                <!-- Curso 2 -->
+                <div class="col-md-3">
+                    <div class="card">
+                        <a href="@Url.Action("Details", "Courses", new { id = 2 })">
+                            <img src="/img/home/ia.jpg" class="card-img-top img-resize" alt="Sistemas Inteligentes">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Aprende Sistemas Inteligentes <br> podrás crear tu propia inteligencia artificial. <br>
+                                <strong>45 s/</strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Curso 3 -->
+                <div class="col-md-3">
+                    <div class="card">
+                        <a href="@Url.Action("Details", "Courses", new { id = 3 })">
+                            <img src="/img/home/python3.jpg" class="card-img-top img-resize" alt="Programación Orientada a Objetos">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Aprende Técnicas de<br> Programación Orientado <br>a Objetos. <br>
+                                <strong>30 s/</strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Curso 4 -->
+                <div class="col-md-3">
+                    <div class="card">
+                        <a href="@Url.Action("Details", "Courses", new { id = 4 })">
+                            <img src="/img/home/power.jpg" class="card-img-top img-resize" alt="Python">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Aprende Python, un <br> lenguaje poderoso y robusto. <br>
+                                <strong>70 s/</strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección de cursos recientes (sin cambios) -->
+    <div class="mt-5">
+        <h2>Cursos más recientes</h2>
+        <p>Explora nuestros últimos cursos añadidos.</p>
+
+        <div class="row mt-5">
+            @foreach (var course in ViewBag.RecentCourses)
+            {
+                <div class="col-md-3">
+                    <div class="card">
+                        <a href="@Url.Action("Details", "Courses", new { id = course.CourseId })">
+                            < img class="card-img-top img-resize" alt="@course.Name">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                @course.Name<br>
+                                @(course.Description?.Length > 50 ? course.Description.Substring(0, 47) + "..." : course.Description)<br>
+                                <strong>@course.Price s/</strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    
+
+    <!-- Sección "Conviértete en instructor" -->
+    <div class="mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="/img/home/prof.jpg" alt="Hombre sonriente" class="img-fluid">
+            </div>
+            <div class="col-md-6 d-flex flex-column justify-content-center">
+                <h2>Conviértete en instructor</h2>
+                <p>Instructores de todo el mundo enseñan a millones de estudiantes en Developers. Proporcionamos las herramientas y las habilidades para que enseñes lo que te apasiona.</p>
+                <a href="/Identity/Account/Login" id="login" class="btn btn-dark align-self-start">Empieza a enseñar hoy mismo</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Estilos para el carrusel */
+    .carousel-container {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+    .carousel-slide {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+    .carousel-content {
+        flex: 1;
+        padding: 40px;
+        background-color: white;
+    }
+    .carousel-image {
+        flex: 1;
+        object-fit: cover;
+    }
+    .button-group {
+        margin-top: 20px;
+    }
+    .carousel-button {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+    }
+    .prev { left: 10px; }
+    .next { right: 10px; }
+
+    /* Estilos existentes */
+    .card-text {
+        font-size: 12px;
+        margin: 0;
+    }
+    .img-resize {
+        width: 100%;
+        height: 120px;
+        object-fit: cover;
+    }
+    .card-body {
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 10px;
+    }
+    .btn-dark {
+        background-color: #1c1d1f;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        font-weight: bold;
+    }
+    .btn-dark:hover {
+        background-color: #000;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const prevButton = document.querySelector('.carousel-button.prev');
+        const nextButton = document.querySelector('.carousel-button.next');
+        const slides = document.querySelectorAll('.carousel-slide');
+        let currentSlide = 0;
+
+        function showSlide(index) {
+            slides.forEach((slide, i) => {
+                slide.classList.toggle('active', i === index);
+            });
+        }
+
+        prevButton.addEventListener('click', () => {
+            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+            showSlide(currentSlide);
+        });
+
+        nextButton.addEventListener('click', () => {
+            currentSlide = (currentSlide + 1) % slides.length;
+            showSlide(currentSlide);
+        });
+    });
+</script>

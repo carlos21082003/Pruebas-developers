@@ -1,0 +1,26 @@
+﻿@page "{id}"
+@model EditRolesModel
+@{
+    ViewData["Title"] = "Editar Roles del Usuario";
+}
+
+<h2>Editar Roles del Usuario</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="UserId" />
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" readonly class="form-control" />
+    </div>
+    <div>
+        <label>Roles</label>
+        @foreach (var role in Model.AllRoles)
+        {
+            <div>
+                <input type="checkbox" asp-for="UserRoles" value="@role.Name" checked="@role.IsAssigned" />
+                <label>@role.Name</label>
+            </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+</form>
