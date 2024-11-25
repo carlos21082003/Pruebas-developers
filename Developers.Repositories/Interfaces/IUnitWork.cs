@@ -9,6 +9,7 @@ public interface IUnitWork : IDisposable
     IStudentRepository Student { get; }
     IEnrollmentRepository Enrollment { get; }
     IApplicationUserRepository ApplicationUser { get; }
+    IInscripcionesRepository Inscripciones { get; }
 
     Task GuardarAsync();
 }

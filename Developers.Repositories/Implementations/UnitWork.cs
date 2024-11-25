@@ -12,6 +12,7 @@ public class UnitWork : IUnitWork
     public IStudentRepository Student { get; private set; }
     public IEnrollmentRepository Enrollment { get; private set; }
     public IApplicationUserRepository ApplicationUser { get; private set; }
+    public IInscripcionesRepository Inscripciones { get; private set; }
     public UnitWork(DevelopersDbContext db)
     {
         _db = db;
@@ -21,6 +22,7 @@ public class UnitWork : IUnitWork
         Student = new StudentRepository(_db);
         Enrollment = new EnrollmentRepository(_db);
         ApplicationUser = new ApplicationUserRepository(_db);
+        Inscripciones = new InscripcionesRepository(_db);
     }
     public void Dispose()
     {

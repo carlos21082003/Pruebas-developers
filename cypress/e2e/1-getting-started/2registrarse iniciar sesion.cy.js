@@ -4,6 +4,7 @@ beforeEach(() => {
   })
 describe("Registrarse e iniciar sesion",()=>{
     it("verificar el registro de usuario",()=>{
+      //registrar usuario
       cy.get('a#register').click()
       cy.get('input#Input_LastName').type('García')
       cy.get('input#Input_FirstName').type('Juan')
@@ -14,12 +15,12 @@ describe("Registrarse e iniciar sesion",()=>{
       cy.get('select').select('Estudiante')
       cy.get('button#registerSubmit').click()
       cy.get('a#login').click()
-
-      //Iniciar sesion con el usuario registrado
+      //iniciar sesion 
       cy.get('input#Input_Email').type('Juan@gmail.com')
       cy.get('input#Input_Password').type('Usuario123*')
       cy.get('button#login-submit').click()
-      
+      //verficar el ingreso del usuario
+      cy.get('a#manage').contains('¡Bienvenido! Juan@gmail.com!').should('exist')
     })
   })
 
@@ -36,6 +37,7 @@ describe("Registrarse e iniciar sesion",()=>{
        cy.get('input#Price').type('25')
        cy.get('button.btn.btn-success').click()
        cy.get('a.nav-link.text-dark[href="/"]').click()
+       cy.get('a[href="/Courses/Details/5"]').contains('< img class="card-img-top img-resize" alt="Robotica">').should
        })
    })  
   

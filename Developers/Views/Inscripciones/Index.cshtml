@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Inscripciones";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h2>Inscripciones</h2>
+                    <div>
+                        <a class="btn btn-primary" asp-controller="Inscripciones" asp-action="Create">
+                            <i class="bi bi-plus-square"></i> Nuevo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_inscripciones">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Curso</th>
+                                <th>Estudiante</th>
+                                <th>Fecha</th>
+                                <th>Duracion</th>
+                                <th>Estado</th>
+                                <th width="120px">Opciones</th>
+                            </tr>
+                        </thead>
+                        @* Body con datatables para mostrar las inscripciones *@
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/inscripcion.js"></script>
+}
+ 

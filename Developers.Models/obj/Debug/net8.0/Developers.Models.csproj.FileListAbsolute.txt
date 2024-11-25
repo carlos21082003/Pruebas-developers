@@ -154,3 +154,4 @@ C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Devel
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Models\obj\Debug\net8.0\Developers.Models.sourcelink.json

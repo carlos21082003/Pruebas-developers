@@ -44,12 +44,19 @@ public class UsersController : Controller
         var roles = await _context.Roles.ToListAsync();
 
         // Llenar la propiedad Role del Modelo ApplicationUser
-        foreach (var user in users) {
-            var roleId = userRoles.FirstOrDefault(u => u.UserId == user.Id).RoleId;
-            user.Role = roles.FirstOrDefault(r => r.Id == roleId).Name;
+        foreach (var user in users)
+        {
+            var userRole = userRoles.FirstOrDefault(u => u.UserId == user.Id);
+            if (userRole != null)
+            {
+                user.Role = roles.FirstOrDefault(r => r.Id == userRole.RoleId)?.Name ?? "Sin rol";
+            }
         }
-        
+
         return Json(new { data = users });
     }
+
+
     #endregion
+
 }

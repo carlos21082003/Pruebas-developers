@@ -4398,3 +4398,8 @@ C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\refint\Devel
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\Developers.pdb
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\Developers.genruntimeconfig.cache
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\ref\Developers.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\Developers.sourcelink.json
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\bin\Debug\net8.0\Developers.staticwebassets.endpoints.json
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\staticwebassets\msbuild.Developers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

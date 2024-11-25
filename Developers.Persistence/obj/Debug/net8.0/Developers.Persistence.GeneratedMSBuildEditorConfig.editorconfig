@@ -11,3 +11,5 @@ build_property.RootNamespace = Developers.Persistence
 build_property.ProjectDir = C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Persistence\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

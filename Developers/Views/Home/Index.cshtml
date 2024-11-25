@@ -13,8 +13,22 @@
                 <button class="btn btn-outline-dark">Plan para organizaciones</button>
             </div>
         </div>
-        <img src="/img/carousel/lap.jpg" alt="Personas trabajando en computadoras" class="carousel-image">
+        <img src="/img/carousel/lap.jpg" alt="Personas trabajando en computadoras" class="carousel-image"> 
     </div>
+
+    <!-- Nuevo slide -->
+    <div class="carousel-slide">
+        <div class="carousel-content">
+            <h2>Desarrollo de Habilidades Digitales</h2>
+            <p>Transforma tu futuro profesional con nuestros cursos de última generación. Aprende las tecnologías más demandadas del mercado.</p>
+            <div class="button-group">
+                <button class="btn btn-dark">Ver Cursos</button>
+                <button class="btn btn-outline-dark">Más Información</button>
+            </div>
+        </div>
+        <img src="~/img/carousel/trabajo.jpg" alt="Programación y desarrollo" class="carousel-image">
+    </div>
+
     <button class="carousel-button prev">&lt;</button>
     <button class="carousel-button next">&gt;</button>
 </div>
@@ -210,6 +224,7 @@
 </div>
 
 <style>
+   
     /* Estilos para el carrusel */
     .carousel-container {
         position: relative;
@@ -228,6 +243,8 @@
         background-color: white;
     }
     .carousel-image {
+        width: 100%;
+        height: 300px;
         flex: 1;
         object-fit: cover;
     }
@@ -277,26 +294,55 @@
 </style>
 
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function () {
+        const carouselContainer = document.querySelector('.carousel-container');
+        const slides = document.querySelectorAll('.carousel-slide');
         const prevButton = document.querySelector('.carousel-button.prev');
         const nextButton = document.querySelector('.carousel-button.next');
-        const slides = document.querySelectorAll('.carousel-slide');
         let currentSlide = 0;
 
+        // Función para mostrar slide con transición
         function showSlide(index) {
-            slides.forEach((slide, i) => {
-                slide.classList.toggle('active', i === index);
+            // Ocultar todos los slides
+            slides.forEach(slide => {
+                slide.style.opacity = '0';
+                slide.style.visibility = 'hidden';
+                slide.style.position = 'absolute';
             });
+
+            // Mostrar slide actual
+            slides[index].style.opacity = '1';
+            slides[index].style.visibility = 'visible';
+            slides[index].style.position = 'relative';
         }
 
-        prevButton.addEventListener('click', () => {
-            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-            showSlide(currentSlide);
-        });
-
-        nextButton.addEventListener('click', () => {
+        // Navegación siguiente
+        function nextSlide() {
             currentSlide = (currentSlide + 1) % slides.length;
             showSlide(currentSlide);
+        }
+
+        // Navegación anterior
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+            showSlide(currentSlide);
+        }
+
+        // Configuración inicial
+        slides.forEach((slide, index) => {
+            slide.style.transition = 'opacity 0.5s ease-in-out';
+            slide.style.position = 'absolute';
+            slide.style.width = '100%';
         });
+
+        // Mostrar primer slide
+        showSlide(currentSlide);
+
+        // Event Listeners
+        nextButton.addEventListener('click', nextSlide);
+        prevButton.addEventListener('click', prevSlide);
+
+        // Opcional: Cambio automático cada 5 segundos
+        setInterval(nextSlide, 5000);
     });
 </script>

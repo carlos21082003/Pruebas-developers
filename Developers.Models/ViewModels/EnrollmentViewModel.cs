@@ -11,6 +11,7 @@ namespace Developers.Models.ViewModels
         public int EnrollmentId { get; set; }
         public int StudentId { get; set; }
         public int ClassroomId { get; set; }
+        public int InscripcionesId { get; set; }
         public decimal? PreTest { get; set; }
         public decimal? PostTest { get; set; }
         public bool Passed { get; set; }

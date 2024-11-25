@@ -3,68 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\addcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\addcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\configurations\\inscripcionesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\configurations\\inscripcionesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20240919055936_addcoursfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20240919055936_addcoursfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20240506183823_addcoursemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20240506183823_addcoursemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\users\\editroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\users\\editroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\inscripciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\inscripciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\wwwroot\\js\\inscripcion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\wwwroot\\js\\inscripcion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\developersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\developersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\trainers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\trainers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\addcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\addcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\initialdata\\dbinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,88 +107,20 @@
       "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\initialdata\\idbinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\initialdata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\initialdata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\inscripciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\inscripciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\inscripciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\inscripciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\classroomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\classroomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\implementations\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\implementations\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.utilities\\ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|solutionrelative:developers.utilities\\ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\users\\editroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\users\\editroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|solutionrelative:developers.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20240422155736_addtrainermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20240422155736_addtrainermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\users\\editroles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\users\\editroles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\classrooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\classrooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\classrooms\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -167,40 +131,147 @@
       "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\classrooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\classrooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\classrooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\classrooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\classrooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\interfaces\\iunitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\interfaces\\iunitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\inscripcionesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\inscripcionesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\wwwroot\\js\\classroom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\wwwroot\\js\\classroom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\inscripciones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\inscripciones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\classrooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\classrooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20241114094156_addinscripcionesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20241114094156_addinscripcionesmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20240506183823_addcoursemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20240506183823_addcoursemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\classroomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\classroomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.models\\viewmodels\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D970E0F-6624-4AFE-B6C3-82BEE31D9A02}|Developers.Models\\Developers.Models.csproj|solutionrelative:developers.models\\viewmodels\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.utilities\\ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|solutionrelative:developers.utilities\\ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\implementations\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\implementations\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\interfaces\\iinscripcionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\interfaces\\iinscripcionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\implementations\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\implementations\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\developersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\developersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20240919055936_addcoursfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20240919055936_addcoursfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D8B188-AE23-44E2-B570-3033B63EF3BB}|Developers.Repositories\\Developers.Repositories.csproj|solutionrelative:developers.repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\configurations\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\configurations\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.persistence\\migrations\\20240422155736_addtrainermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A0A4F8-6A4B-4E9A-9FDA-F36852BA8FFF}|Developers.Persistence\\Developers.Persistence.csproj|solutionrelative:developers.persistence\\migrations\\20240422155736_addtrainermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60E2E69-E58A-4AAF-83C2-4C253EECA49B}|Developers.Utilities\\Developers.Utilities.csproj|solutionrelative:developers.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\users\\editroles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\users\\editroles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\trainers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\trainers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|c:\\users\\hp\\downloads\\nueva carpeta (2)\\developers\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29EE1471-6435-4DED-84FC-5ACAE11EF57C}|Developers\\Developers.csproj|solutionrelative:developers\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -210,36 +281,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClassroomsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\ClassroomsController.cs",
-              "RelativeDocumentMoniker": "Developers\\Controllers\\ClassroomsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\ClassroomsController.cs",
-              "RelativeToolTip": "Developers\\Controllers\\ClassroomsController.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAkwBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T20:57:38.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Classroom.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Classroom.cs",
-              "RelativeDocumentMoniker": "Developers.Models\\Classroom.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Classroom.cs",
-              "RelativeToolTip": "Developers.Models\\Classroom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "InscripcionesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\InscripcionesConfiguration.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Configurations\\InscripcionesConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\InscripcionesConfiguration.cs",
+              "RelativeToolTip": "Developers.Persistence\\Configurations\\InscripcionesConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:19:29.715Z"
+              "WhenOpened": "2024-11-14T07:35:48.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Course.cs",
               "RelativeDocumentMoniker": "Developers.Models\\Course.cs",
@@ -247,44 +305,67 @@
               "RelativeToolTip": "Developers.Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T12:56:42.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T12:56:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Enrollment.cs",
+              "RelativeToolTip": "Developers.Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:04:31.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Create.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Create.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Courses\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T13:17:03.131Z"
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Classroom.cs",
+              "RelativeToolTip": "Developers.Models\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:19:29.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddCourses.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\AddCourses.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\AddCourses.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\AddCourses.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Courses\\AddCourses.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T05:44:53.355Z"
+              "DocumentIndex": 2,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\EntityBase.cs",
+              "RelativeToolTip": "Developers.Models\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:45:45.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Developers\\Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Developers\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Title": "Inscripciones.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Inscripciones.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\Inscripciones.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Inscripciones.cs",
+              "RelativeToolTip": "Developers.Models\\Inscripciones.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T21:25:15.649Z",
+              "WhenOpened": "2024-11-14T07:17:09.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\TrainersController.cs",
+              "RelativeDocumentMoniker": "Developers\\Controllers\\TrainersController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\TrainersController.cs",
+              "RelativeToolTip": "Developers\\Controllers\\TrainersController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswIsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:25:04.933Z",
               "EditorCaption": ""
             },
             {
@@ -295,325 +376,169 @@
               "RelativeDocumentMoniker": "Developers\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Developers\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T19:25:06.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Details.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Details.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Courses\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:10:42.581Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20240919055936_AddCoursFields.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
-              "RelativeToolTip": "Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "Developers\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "Developers\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T05:59:36.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DevelopersDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\DevelopersDbContext.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\DevelopersDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\DevelopersDbContext.cs",
-              "RelativeToolTip": "Developers.Persistence\\DevelopersDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T20:45:40.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Edit.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Courses\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T21:46:20.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T17:18:48.712Z"
+              "WhenOpened": "2024-11-14T07:02:47.95Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "20240506183823_AddCourseMigration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
-              "RelativeToolTip": "Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:19:32.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "Developers.Repositories\\Implementations\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\CourseRepository.cs",
-              "RelativeToolTip": "Developers.Repositories\\Implementations\\CourseRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:32:06.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CourseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\CourseConfiguration.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\Configurations\\CourseConfiguration.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\CourseConfiguration.cs",
-              "RelativeToolTip": "Developers.Persistence\\Configurations\\CourseConfiguration.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:35:35.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "Developers.Models\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\Enrollment.cs",
-              "RelativeToolTip": "Developers.Models\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T21:04:31.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DbInitialize.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\DbInitialize.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\InitialData\\DbInitialize.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\DbInitialize.cs",
-              "RelativeToolTip": "Developers.Persistence\\InitialData\\DbInitialize.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwFYAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T19:19:53.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IDbInitialize.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\IDbInitialize.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\InitialData\\IDbInitialize.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\IDbInitialize.cs",
-              "RelativeToolTip": "Developers.Persistence\\InitialData\\IDbInitialize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:21:30.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Index.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Index.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Courses\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwCwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:30:31.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\SeedData.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\InitialData\\SeedData.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\SeedData.cs",
-              "RelativeToolTip": "Developers.Persistence\\InitialData\\SeedData.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwC4AAAC3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:16:47.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T23:11:22.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:06:12.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\libman.json",
-              "RelativeDocumentMoniker": "Developers\\libman.json",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\libman.json",
-              "RelativeToolTip": "Developers\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-24T02:25:16.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Developers\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Developers\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T21:24:47.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Program.cs",
-              "RelativeDocumentMoniker": "Developers\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Program.cs",
-              "RelativeToolTip": "Developers\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Developers\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Developers\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T19:48:14.936Z"
+              "WhenOpened": "2024-11-16T06:55:38.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EnrollmentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
-              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
-              "RelativeToolTip": "Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T21:03:55.279Z"
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T02:31:01.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ClassroomVM.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\ClassroomVM.cs",
-              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\ClassroomVM.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\ClassroomVM.cs",
-              "RelativeToolTip": "Developers.Models\\ViewModels\\ClassroomVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Developers\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Developers\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T22:20:17.136Z"
+              "WhenOpened": "2024-06-23T21:25:15.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\Home.cs",
-              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\Home.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\Home.cs",
-              "RelativeToolTip": "Developers.Models\\ViewModels\\Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ClassroomsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\ClassroomsController.cs",
+              "RelativeDocumentMoniker": "Developers\\Controllers\\ClassroomsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\ClassroomsController.cs",
+              "RelativeToolTip": "Developers\\Controllers\\ClassroomsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:08:08.43Z"
+              "WhenOpened": "2024-06-23T20:57:38.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ClassroomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\ClassroomRepository.cs",
-              "RelativeDocumentMoniker": "Developers.Repositories\\Implementations\\ClassroomRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\ClassroomRepository.cs",
-              "RelativeToolTip": "Developers.Repositories\\Implementations\\ClassroomRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:32:45.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DS.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\DS.cs",
-              "RelativeDocumentMoniker": "Developers.Utilities\\DS.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\DS.cs",
-              "RelativeToolTip": "Developers.Utilities\\DS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T23:50:11.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 14,
               "Title": "EditRoles.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Users\\EditRoles.cshtml",
               "RelativeDocumentMoniker": "Developers\\Views\\Users\\EditRoles.cshtml",
               "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Users\\EditRoles.cshtml",
               "RelativeToolTip": "Developers\\Views\\Users\\EditRoles.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-23T19:36:02.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\EmailSender.cs",
-              "RelativeDocumentMoniker": "Developers.Utilities\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\EmailSender.cs",
-              "RelativeToolTip": "Developers.Utilities\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T23:50:07.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Developers\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Inscripciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Inscripciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T19:34:32.656Z"
+              "WhenOpened": "2024-11-14T07:04:49.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 18,
+              "Title": "EnrollmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
+              "RelativeToolTip": "Developers.Models\\ViewModels\\EnrollmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:03:55.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "inscripcion.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\inscripcion.js",
+              "RelativeDocumentMoniker": "Developers\\wwwroot\\js\\inscripcion.js",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\inscripcion.js",
+              "RelativeToolTip": "Developers\\wwwroot\\js\\inscripcion.js",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T08:13:40.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "Developers.Models\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:57:04.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "user.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\user.js",
+              "RelativeDocumentMoniker": "Developers\\wwwroot\\js\\user.js",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\user.js",
+              "RelativeToolTip": "Developers\\wwwroot\\js\\user.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-23T19:39:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T17:18:48.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "Developers\\Views\\Users\\Index.cshtml",
@@ -625,31 +550,271 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20240422155736_AddTrainerMigration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
-              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
-              "RelativeToolTip": "Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Trainers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Trainers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Trainers\\Delete.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Trainers\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T19:34:20.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DbInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\DbInitialize.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\InitialData\\DbInitialize.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\DbInitialize.cs",
+              "RelativeToolTip": "Developers.Persistence\\InitialData\\DbInitialize.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:21:15.958Z"
+              "WhenOpened": "2024-06-23T19:19:53.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\SeedData.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\InitialData\\SeedData.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\SeedData.cs",
+              "RelativeToolTip": "Developers.Persistence\\InitialData\\SeedData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:16:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDbInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\IDbInitialize.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\InitialData\\IDbInitialize.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\InitialData\\IDbInitialize.cs",
+              "RelativeToolTip": "Developers.Persistence\\InitialData\\IDbInitialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:21:30.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\AddCourses.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\AddCourses.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\AddCourses.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Courses\\AddCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T05:44:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Create.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Inscripciones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Create.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Inscripciones\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:16:27.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Inscripciones\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Edit.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Inscripciones\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:17:51.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Edit.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Classrooms\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T22:27:07.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Details.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Details.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Classrooms\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T20:50:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Create.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Create.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Classrooms\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T22:43:38.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Classrooms\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T22:10:52.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUnitWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Interfaces\\IUnitWork.cs",
+              "RelativeDocumentMoniker": "Developers.Repositories\\Interfaces\\IUnitWork.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Interfaces\\IUnitWork.cs",
+              "RelativeToolTip": "Developers.Repositories\\Interfaces\\IUnitWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:03:39.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InscripcionesVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\InscripcionesVM.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\InscripcionesVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\InscripcionesVM.cs",
+              "RelativeToolTip": "Developers.Models\\ViewModels\\InscripcionesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:55:12.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\EntityBase.cs",
-              "RelativeDocumentMoniker": "Developers.Models\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\EntityBase.cs",
-              "RelativeToolTip": "Developers.Models\\EntityBase.cs",
+              "Title": "classroom.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\classroom.js",
+              "RelativeDocumentMoniker": "Developers\\wwwroot\\js\\classroom.js",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\classroom.js",
+              "RelativeToolTip": "Developers\\wwwroot\\js\\classroom.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:45:45.399Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-23T20:59:35.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Details.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Inscripciones\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Inscripciones\\Details.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Inscripciones\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T08:16:55.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241114094156_AddInscripcionesMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20241114094156_AddInscripcionesMigration.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20241114094156_AddInscripcionesMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20241114094156_AddInscripcionesMigration.cs",
+              "RelativeToolTip": "Developers.Persistence\\Migrations\\20241114094156_AddInscripcionesMigration.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:41:56.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240506183823_AddCourseMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
+              "RelativeToolTip": "Developers.Persistence\\Migrations\\20240506183823_AddCourseMigration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:19:32.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClassroomVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\ClassroomVM.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\ClassroomVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\ClassroomVM.cs",
+              "RelativeToolTip": "Developers.Models\\ViewModels\\ClassroomVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:20:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\Home.cs",
+              "RelativeDocumentMoniker": "Developers.Models\\ViewModels\\Home.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Models\\ViewModels\\Home.cs",
+              "RelativeToolTip": "Developers.Models\\ViewModels\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:08:08.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DS.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\DS.cs",
+              "RelativeDocumentMoniker": "Developers.Utilities\\DS.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\DS.cs",
+              "RelativeToolTip": "Developers.Utilities\\DS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:50:11.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Program.cs",
+              "RelativeDocumentMoniker": "Developers\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Program.cs",
+              "RelativeToolTip": "Developers\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:48:14.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\libman.json",
+              "RelativeDocumentMoniker": "Developers\\libman.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\libman.json",
+              "RelativeToolTip": "Developers\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T02:25:16.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\appsettings.json",
               "RelativeDocumentMoniker": "Developers\\appsettings.json",
@@ -661,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Developers\\appsettings.Development.json",
@@ -673,19 +838,235 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "classroom.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\classroom.js",
-              "RelativeDocumentMoniker": "Developers\\wwwroot\\js\\classroom.js",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\classroom.js",
-              "RelativeToolTip": "Developers\\wwwroot\\js\\classroom.js",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwEwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-23T20:59:35.242Z"
+              "DocumentIndex": 47,
+              "Title": "IInscripcionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Interfaces\\IInscripcionesRepository.cs",
+              "RelativeDocumentMoniker": "Developers.Repositories\\Interfaces\\IInscripcionesRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Interfaces\\IInscripcionesRepository.cs",
+              "RelativeToolTip": "Developers.Repositories\\Interfaces\\IInscripcionesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:06:38.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
+              "Title": "UnitWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\UnitWork.cs",
+              "RelativeDocumentMoniker": "Developers.Repositories\\Implementations\\UnitWork.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\UnitWork.cs",
+              "RelativeToolTip": "Developers.Repositories\\Implementations\\UnitWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:08:18.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Inscripciones.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\Inscripciones.cs",
+              "RelativeDocumentMoniker": "Developers.Repositories\\Implementations\\Inscripciones.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\Inscripciones.cs",
+              "RelativeToolTip": "Developers.Repositories\\Implementations\\Inscripciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:40:00.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DevelopersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\DevelopersDbContext.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\DevelopersDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\DevelopersDbContext.cs",
+              "RelativeToolTip": "Developers.Persistence\\DevelopersDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:45:40.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Developers\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T19:34:32.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOkSAAAAAAAAAAAUwPgSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-14T08:35:18.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:06:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:17:03.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T19:24:11.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240919055936_AddCoursFields.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
+              "RelativeToolTip": "Developers.Persistence\\Migrations\\20240919055936_AddCoursFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:59:36.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Developers.Repositories\\Implementations\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Repositories\\Implementations\\CourseRepository.cs",
+              "RelativeToolTip": "Developers.Repositories\\Implementations\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:32:06.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EnrollmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\EnrollmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Configurations\\EnrollmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\EnrollmentConfiguration.cs",
+              "RelativeToolTip": "Developers.Persistence\\Configurations\\EnrollmentConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:25:30.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:10:42.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:11:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T21:46:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Developers\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Developers\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:30:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Configurations\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Configurations\\CourseConfiguration.cs",
+              "RelativeToolTip": "Developers.Persistence\\Configurations\\CourseConfiguration.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:35:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240422155736_AddTrainerMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
+              "RelativeDocumentMoniker": "Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
+              "RelativeToolTip": "Developers.Persistence\\Migrations\\20240422155736_AddTrainerMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:21:15.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Developers.Utilities\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers.Utilities\\EmailSender.cs",
+              "RelativeToolTip": "Developers.Utilities\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:50:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
               "Title": "EditRoles.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Users\\EditRoles.cshtml.cs",
               "RelativeDocumentMoniker": "Developers\\Views\\Users\\EditRoles.cshtml.cs",
@@ -697,91 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Details.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Details.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Classrooms\\Details.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T20:50:05.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Edit.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Classrooms\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T22:27:07.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Index.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Index.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Classrooms\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T22:10:52.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "TrainersController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\TrainersController.cs",
-              "RelativeDocumentMoniker": "Developers\\Controllers\\TrainersController.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Controllers\\TrainersController.cs",
-              "RelativeToolTip": "Developers\\Controllers\\TrainersController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAIBJwEsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T19:25:04.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Create.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Classrooms\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Classrooms\\Create.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Classrooms\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T22:43:38.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "user.js",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\user.js",
-              "RelativeDocumentMoniker": "Developers\\wwwroot\\js\\user.js",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\user.js",
-              "RelativeToolTip": "Developers\\wwwroot\\js\\user.js",
-              "ViewState": "AgIAADgAAAAAAAAAAIBJwF0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-23T19:39:33.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Trainers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Views\\Trainers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Trainers\\Delete.cshtml",
-              "RelativeToolTip": "Developers\\Views\\Trainers\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T19:34:20.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 66,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Developers\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -793,7 +1090,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 67,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Views\\Trainers\\Create.cshtml",
               "RelativeDocumentMoniker": "Developers\\Views\\Trainers\\Create.cshtml",
@@ -802,18 +1099,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-23T19:34:15.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Developers\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T19:24:11.337Z"
             }
           ]
         }

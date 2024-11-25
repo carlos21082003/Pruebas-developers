@@ -39,6 +39,8 @@ public static class SeedData
             );
             context.SaveChanges();
 
+            //verificar si existen datos en cursos 
+
             if (context.Courses.Any()) return;
 
             context.Courses.Add(new Course { Name="Diseño y Arquitectura de Software", Hours=8, Description="Curso de Desarrollo web con .NET 8",Theme="repositorios", Price = 50});

@@ -16,6 +16,7 @@ public class Classroom:EntityBase
     public Trainer? Trainer { get; set; }
     public int CourseId { get; set; }
     public Course? Course { get; set; }
+
     // UpdatedAt
     // CreatedAt
     // Status

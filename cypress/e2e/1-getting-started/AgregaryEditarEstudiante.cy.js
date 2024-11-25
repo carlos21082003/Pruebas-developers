@@ -2,7 +2,7 @@ beforeEach(() => {
     cy.visit('https://localhost:7276/')  
 })
 describe("Agregar un estudiante",()=> {
-    it ("verificar la creacion y educion de los estudiantes",()=>{
+    it ("verificar la creacion y edicion de los estudiantes",()=>{
         cy.get('a.nav-link.text-dark[href="/Students"]').click()
         cy.get('a.btn.btn-primary[href="/Students/Create"]').click()
         cy.get('input#Dni').type('60035357')
@@ -26,3 +26,4 @@ describe("Agregar un estudiante",()=> {
         cy.get('button.btn.btn-success').click();
     })
   })
+

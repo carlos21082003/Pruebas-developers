@@ -15,6 +15,7 @@ public class DevelopersDbContext : IdentityDbContext
     public DbSet<Trainer> Trainers { get; set; }
     public DbSet<Course> Courses { get; set; }
     public DbSet<Classroom> Classrooms { get; set; }
+    public DbSet<Inscripciones> Inscripcion { get; set; }
     public DbSet<Student> Students { get; set; }
     public DbSet<Enrollment> Enrollments { get; set; }
     public DbSet<ApplicationUser> ApplicationUser { get; set; }

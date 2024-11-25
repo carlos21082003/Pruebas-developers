@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Developers.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Developers.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Developers.zyh3xbgqki.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\css\\site.css",
@@ -19,6 +19,10 @@
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\img\\carousel\\prof.jpg",
       "PackagePath": "staticwebassets\\img\\carousel\\prof.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\img\\carousel\\trabajo.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel\\trabajo.jpg"
     },
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\img\\home\\desarrollo.jpg",
@@ -63,6 +67,10 @@
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\course.js",
       "PackagePath": "staticwebassets\\js\\course.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\inscripcion.js",
+      "PackagePath": "staticwebassets\\js\\inscripcion.js"
     },
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\js\\site.js",
@@ -9143,6 +9151,10 @@
     {
       "Id": "C:\\Users\\HP\\Downloads\\Nueva carpeta (2)\\Developers\\wwwroot\\lib\\select2\\js\\select2.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Developers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Developers.Microsoft.AspNetCore.StaticWebAssets.props",

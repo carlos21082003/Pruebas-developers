@@ -147,3 +147,4 @@ C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\De
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\refint\Developers.Utilities.dll
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.pdb
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\ref\Developers.Utilities.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Utilities\obj\Debug\net8.0\Developers.Utilities.sourcelink.json

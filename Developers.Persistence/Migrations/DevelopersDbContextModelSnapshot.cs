@@ -123,6 +123,9 @@ namespace Developers.Persistence.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("InscripcionesId")
+                        .HasColumnType("int");
+
                     b.Property<bool>("Passed")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("bit")
@@ -149,9 +152,53 @@ namespace Developers.Persistence.Migrations
 
                     b.HasIndex("ClassroomId");
 
+                    b.HasIndex("InscripcionesId");
+
                     b.HasIndex("StudentId");
 
                     b.ToTable("Enrollments", (string)null);
+                });
+
+            modelBuilder.Entity("Developers.Models.Inscripciones", b =>
+                {
+                    b.Property<int>("InscripcionesId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InscripcionesId"));
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DetailsInscripciones")
+                        .HasColumnType("text");
+
+                    b.Property<decimal>("HoursInscripciones")
+                        .HasPrecision(5, 2)
+                        .HasColumnType("decimal(5,2)");
+
+                    b.Property<DateTime>("SessionDateInscripciones")
+                        .HasColumnType("date");
+
+                    b.Property<bool>("Status")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("InscripcionesId");
+
+                    b.HasIndex("CourseId");
+
+                    b.HasIndex("StudentId");
+
+                    b.ToTable("Inscripciones", (string)null);
                 });
 
             modelBuilder.Entity("Developers.Models.Student", b =>
@@ -497,6 +544,12 @@ namespace Developers.Persistence.Migrations
                         .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
+                    b.HasOne("Developers.Models.Inscripciones", "Inscripciones")
+                        .WithMany()
+                        .HasForeignKey("InscripcionesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Developers.Models.Student", "Student")
                         .WithMany()
                         .HasForeignKey("StudentId")
@@ -504,6 +557,27 @@ namespace Developers.Persistence.Migrations
                         .IsRequired();
 
                     b.Navigation("Classroom");
+
+                    b.Navigation("Inscripciones");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("Developers.Models.Inscripciones", b =>
+                {
+                    b.HasOne("Developers.Models.Course", "Course")
+                        .WithMany()
+                        .HasForeignKey("CourseId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.HasOne("Developers.Models.Student", "Student")
+                        .WithMany()
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Course");
 
                     b.Navigation("Student");
                 });

@@ -53,6 +53,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Students" asp-action="Index">Estudiantes</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Inscripciones" asp-action="Index">Inscripciones</a>
+                        </li>
                         @if (User.IsInRole(DS.Role_Admin))
                         {
                             <li class="nav-item">

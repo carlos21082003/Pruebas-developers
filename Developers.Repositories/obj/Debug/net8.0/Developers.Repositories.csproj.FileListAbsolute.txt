@@ -250,3 +250,4 @@ C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Repositories\obj\Debug\net8.0
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.sourcelink.json

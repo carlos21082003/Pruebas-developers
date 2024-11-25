@@ -228,3 +228,4 @@ C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Persistence\obj\Debug\net8.0\
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Persistence\obj\Debug\net8.0\Developers.Persistence.pdb
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Persistence\obj\Debug\net8.0\Developers.Persistence.genruntimeconfig.cache
 C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Persistence\obj\Debug\net8.0\ref\Developers.Persistence.dll
+C:\Users\HP\Downloads\Nueva carpeta (2)\Developers.Persistence\obj\Debug\net8.0\Developers.Persistence.sourcelink.json
